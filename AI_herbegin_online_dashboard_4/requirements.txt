@@ -1,0 +1,11 @@
+yfinance
+pandas
+numpy
+scikit-learn
+stable-baselines3>=2.3.0
+torch
+transformers
+vaderSentiment
+requests
+ta
+tqdm
